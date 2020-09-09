@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f134da3-5530-4581-bb29-e812c2b00761" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PHP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H02/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/img/lion9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index05.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index06.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index07.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/index08.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/index02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/index03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/animals/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/animals/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/animals/panda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/animals/snail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/animals/snake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/index01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/index01Processing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/index02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/index02Processing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/index03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H06/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bqn4xXtjt5hm11ygdqJ5NAtH0F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/H03" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHP\H03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHP\H05" />
+      <recent name="C:\wamp64\www\PHP" />
+      <recent name="C:\wamp64\www\PHP\H06" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f134da3-5530-4581-bb29-e812c2b00761" name="Default Changelist" comment="" />
+      <created>1589368303255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589368303255</updated>
+      <workItem from="1589368304631" duration="3610000" />
+      <workItem from="1589453986014" duration="2469000" />
+      <workItem from="1589787287461" duration="2741000" />
+      <workItem from="1590403183346" duration="11182000" />
+      <workItem from="1591081491352" duration="17683000" />
+      <workItem from="1592381693238" duration="13865000" />
+      <workItem from="1599462220626" duration="123000" />
+      <workItem from="1599462842560" duration="6127000" />
+      <workItem from="1599548863388" duration="2501000" />
+      <workItem from="1599555518863" duration="11091000" />
+      <workItem from="1599641162016" duration="600000" />
+      <workItem from="1599641763286" duration="7835000" />
+    </task>
+    <task id="LOCAL-00001" summary="add hello world">
+      <created>1589443884445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589443884445</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add hello world 2.0">
+      <created>1589444608219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589444608219</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add veriabels to senteces to compleet them">
+      <created>1589789416798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589789416798</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add img to for loop">
+      <created>1590404911081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590404911097</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add array that shows a img of monkeys">
+      <created>1590478052394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590478052394</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add h3 opdrachten 3, 4 and 5">
+      <created>1590654374379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590654374379</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add h3 opdrachten 6, 7 en 8">
+      <created>1591254892509</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591254892510</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add h4 and update online page index.html">
+      <created>1599464505571</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464505571</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add h5">
+      <created>1599464680123</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464680123</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add hello world" />
+    <MESSAGE value="add hello world 2.0" />
+    <MESSAGE value="add veriabels to senteces to compleet them" />
+    <MESSAGE value="add img to for loop" />
+    <MESSAGE value="add array that shows a img of monkeys" />
+    <MESSAGE value="add h3 opdrachten 3, 4 and 5" />
+    <MESSAGE value="add h3 opdrachten 6, 7 en 8" />
+    <MESSAGE value="add h4 and update online page index.html" />
+    <MESSAGE value="add h5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add h5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="254" key="#SQL_Dialects" timestamp="1599561715035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="194" y="254" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1599561715035" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599561822894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599561822894" />
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599647888536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599647888536" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599547979296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1599547979296" />
+    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1599464675687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599464675687" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599642011402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599642011402" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1599642039904">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1599642039904" />
+    <state x="638" y="117" key="Github.UntrackedFilesDialog" timestamp="1599642058091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599642058091" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599642241838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599642241838" />
+  </component>
+</project>
